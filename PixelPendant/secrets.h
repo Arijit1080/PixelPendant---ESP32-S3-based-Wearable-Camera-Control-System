@@ -1,6 +1,2 @@
-//#define WIFI_SSID "Airtel_AEONIX_INNOVATIONS"
-//#define WIFI_PASSWORD "Aeonix@9883"
 #define WIFI_SSID "SamsungM35"
 #define WIFI_PASSWORD "SamsungM35"
-//#define WIFI_SSID "Airtel_Guest_Aeonix"
-//#define WIFI_PASSWORD "Aeonix@9883"
