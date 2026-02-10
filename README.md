@@ -14,7 +14,19 @@ A high-performance firmware for the Seeed XIAO ESP32-S3 Sense microcontroller en
 ✅ **Gallery View** - Browse captured images and videos  
 ✅ **WiFi Connectivity** - Secure network access with auto-reconnect  
 ✅ **Time Sync** - NTP synchronization for accurate timestamps  
-✅ **Optimized Performance** - Fast startup and smooth operation  
+✅ **Optimized Performance** - Fast startup and smooth operation 
+
+## 🖼️ Circuit Schematic
+
+![Pixel Pendant Schematic](CameraPendant.png)
+
+---
+
+## 🔄 System Flowchart
+
+![Pixel Pendant Flowchart](CameraPendantWorkflow.png)
+
+---
 
 ## Hardware Requirements
 
