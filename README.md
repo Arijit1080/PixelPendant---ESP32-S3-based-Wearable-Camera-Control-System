@@ -18,7 +18,7 @@ A high-performance firmware for the Seeed XIAO ESP32-S3 Sense microcontroller en
 
 ## 🖼️ Circuit Schematic
 
-![Pixel Pendant Schematic](CameraPendant.png)
+![Pixel Pendant Schematic](CameraPendantSchematic.png)
 
 ---
 
